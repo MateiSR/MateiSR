@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MateiSR
-- 🌱 I’m currently learning TypeScript, as-well as trying to get into low-level stuff like Rust
+- 📚 Currently studying Computer Science
 - 💞️ I’m looking forward to collaborating in various coding projects, so shoot me a DM!
 - 📫 How to reach me: mateisr.com
 
